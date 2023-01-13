@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong DANG / Site Title"
+title                    : "Tong DANG"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Space Guy"
@@ -85,7 +85,6 @@ author:
   bio              : "Space physics"
   location         : "University of Science and Technology of China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=K7JUackAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Tong-Dang"
