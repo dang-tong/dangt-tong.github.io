@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Tong, a space physics scientist at the University of Science and Technology of China, in the Department of Earth and Space Sciences. I’m working on developing numerical models to simulate the "space weather" of planets, and applying the models to unveil the physics behind space phonomena from observations. The planet study also provide references for the scientific objectives of future planetary exploration missions, and serve the national deep space strategy.
+Hi! I’m Tong, a space physics scientist at the University of Science and Technology of China, in the Department of Earth and Space Sciences. I’m working on developing numerical models to simulate the "space weather" of planets, and applying the models to unveil the physics behind space phonomena from observations. The planet study also provide references for the scientific objectives of future planetary exploration missions, and serve the deep space exploration.
 
 My work and research
 ======
