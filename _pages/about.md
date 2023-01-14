@@ -16,4 +16,4 @@ Currently I focus mostly on the modeling the space environment of planets. We ha
 
 Prospective students
 ======
-Students with background from space physics, astronomy, physics, and computer science are welcome. I hope you have broad interest in planetary science and the spirit of  self-motivation. We can get together to do something exciting.
+Students from majors of space physics, astronomy, physics, and computer science are welcome. I hope you have solid background of physics, broad interest in planetary science and computer programming, and the spirit of self-motivation. We can get together to do something new and exciting.
