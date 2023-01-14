@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Tong, an Associate Professor at the University of Science and Technology of China, in the Department of Earth and Space Sciences. I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. My research, teaching, and broader service are all grounded in the idea that science and technology are inherently social activities, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
+Hi! I’m Tong, an Associate Professor at the University of Science and Technology of China, in the Department of Earth and Space Sciences. I’m an .
 
 My work and research
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Currently I focus mostly on the modeling the space environment of planets. We have carries out a series of magnetosphere-ionosphere models of the Earth, Venus, Mars, and in the future Io. The model have the capability of capturing high-resolution structures such as Kelvin-Helmhotz instabitliy. We are also comparing observations such as "Tianwen-1" and other ongoing satellites to advance our understanding of the planetary physics.
 
 Prospective students
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+Students with background from space physics, astronomy, physics, and computer science are welcome. I hope you have broad interest in planetary science and the spirit of self-learning and exloration. We can get together to do something exciting.
