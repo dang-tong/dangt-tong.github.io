@@ -18,8 +18,8 @@ Work experience
 ======
 Department of Earth and Space Sciences, University of Science and Technology of China
 * 2022-present: Associate Professor
-* 2020-2021   : Associate Researcher
-* 2018-2020   : Postdoctoral fellow
+* 2020-2021      : Associate Researcher
+* 2018-2020      : Postdoctoral fellow
 
 Publications
 ======
