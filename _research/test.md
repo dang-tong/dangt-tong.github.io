@@ -1,11 +1,11 @@
 ---
-title: "DSC 291: Data Science, Ethics, and Society (Winter 2022, UCSD)"
-collection: teaching
+title: "Pplanetary space environment modeling: Venus and Mars"
+collection: research
 teaching_type: "Course"
 permalink: /teaching/DSC-291-data-science-ethics-society-w22/ 
 institution: "UC San Diego (UCSD), HDSI"
 date: 2021-12-16
-excerpt: "Graduate-level course on social and ethical issues in data science"
+excerpt: "Development of high resolution model of theunmagnetized planets"
 ---
 
 Note: This is a draft syllabus, some details may be subject to change.
