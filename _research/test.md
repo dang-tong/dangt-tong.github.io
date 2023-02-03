@@ -1,11 +1,11 @@
 ---
-title: "Pplanetary space environment modeling: Venus and Mars"
+title: "Planetary modeling: space environment at Venus and Mars"
 collection: research
 teaching_type: "Course"
-permalink: /teaching/DSC-291-data-science-ethics-society-w22/ 
-institution: "UC San Diego (UCSD), HDSI"
+permalink: /research/planetary-modeling/ 
+institution: "USTC"
 date: 2021-12-16
-excerpt: "Development of high resolution model of theunmagnetized planets"
+excerpt: "Development of high resolution model of the unmagnetized planets (Venus and Mars)"
 ---
 
 Note: This is a draft syllabus, some details may be subject to change.
