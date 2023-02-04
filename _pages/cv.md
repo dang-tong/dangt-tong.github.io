@@ -23,9 +23,7 @@ Department of Earth and Space Sciences, University of Science and Technology of 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+publication.md
   
 Talks
 ======
