@@ -24,12 +24,12 @@ Department of Earth and Space Sciences, University of Science and Technology of 
 Funded research
 ======
 
-1. Investigation of the coupling between ionosphere and middle-upper atmosphere and the related escape processes at Mars, National Natural Science Foundation of China (42241115), PI 2023-2026
-1. Investigation of the solar eclipse effect on the coupled ionosphere-thermosphere-magnetosphere system, National Natural Science Foundation of China (42174198), PI 2022-2025
-1. Investigation of the effect of polar tongue of ionization on the thermosphere during geomagnetic storms, National Natural Science Foundation of China (41904138), PI 2020-2022
-1. High-resolution simulation of the coupled magnetosphere-ionosphere-thermosphere system, National Postdoctoral Program for Innovative Talents (BX20180286), PI 2018-2020
-1. High-resolution simulations on the polar ionospheric response to geomagnetic storms, China Postdoctoral Science Foundation (2018M642525), PI 2018-2020
-1. Meso-scale structures of polar ionosphere during geomagnetic storms, Fundamental Research Funds for the Central Universities, PI 2019-2020
+1. Investigation of the coupling between ionosphere and middle-upper atmosphere and the related escape processes at Mars, PI, NSFC(42241115), 2023-2026
+1. Investigation of the solar eclipse effect on the coupled ionosphere-thermosphere-magnetosphere system, PI, NSFC (42174198), 2022-2025
+1. Investigation of the effect of polar tongue of ionization on the thermosphere during geomagnetic storms, PI, NSFC (41904138), 2020-2022
+1. High-resolution simulation of the coupled magnetosphere-ionosphere-thermosphere system, PI, National Postdoctoral Program for Innovative Talents (BX20180286), 2018-2020
+1. High-resolution simulations on the polar ionospheric response to geomagnetic storms, PI, China Postdoctoral Science Foundation (2018M642525), 2018-2020
+1. Meso-scale structures of polar ionosphere during geomagnetic storms, PI, Fundamental Research Funds for the Central Universities, 2019-2020
 
 Publications
 ======
