@@ -21,6 +21,16 @@ Department of Earth and Space Sciences, University of Science and Technology of 
 * 2021-2022: Associate Researcher
 * 2018-2020: Postdoctoral fellow
 
+Funded research
+======
+Department of Earth and Space Sciences, University of Science and Technology of China
+1.National Natural Science Foundation of China (42241115), PI 2023-2026, Investigation of the coupling between ionosphere and middle-upper atmosphere and the related escape processes at Mars
+1.National Natural Science Foundation of China (42174198), PI 2022-2025, Investigation of the solar eclipse effect on the coupled ionosphere-thermosphere-magnetosphere system
+1.National Natural Science Foundation of China (41904138), PI 2020-2022, Investigation of the effect of polar tongue of ionization on the thermosphere during geomagnetic storms
+1.National Postdoctoral Program for Innovative Talents (BX20180286), PI 2018-2020, High-resolution simulation of the coupled magnetosphere-ionosphere-thermosphere system
+1.China Postdoctoral Science Foundation (2018M642525), PI 2018-2020, High-resolution simulations on the polar ionospheric response to geomagnetic storms
+1.Fundamental Research Funds for the Central Universities, PI 2019-2020, Meso-scale structures of polar ionosphere during geomagnetic storms
+
 Publications
 ======
 1. Yan, M., **Dang, T.\***,  Cao, Y., Cui, J., Zhang, B., Liu, Z., Lei, J.\* (2022). A Comparative Study of Ionospheric Response to Solar Flares at Earth, Venus, and Mars. The Astrophysical Journal, 939, 10. https://doi.org/10.3847/1538-4357/ac92ff
