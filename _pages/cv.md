@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -69,9 +69,13 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+1. Dang, T. et al. (2022), Global Effects of a Polar Solar Eclipse on the Coupled Magnetosphere-Ionosphere System (invited talk), CEDAR 2022, 19-24, Jun.
+1. Dang, T. et al. (2021), Geospace response to 10 June 2021 polar solar eclipse (invited talk), AGU Fall Meeting 2021, 13-17 Dec.
+1. Dang, T. et al. (2021), Magnetosphere-ionosphere response to 10 June 2021 polar solar eclipse (invited talk), CEDAR 2021, 20-25, Jun.
+1. Dang, T. et al. (2019), Impacts of polar tongues of ionization and Patches on high-latitude upper thermosphere (oral), AGU Fall Meeting abstract, San Francisco, CA, 9-13 Dec.
+1. Dang, T. et al. (2018), Dynamic evolution of polar tongues of ionization and patches in the coupled Magnetosphere-Ionosphere-Thermosphere system (oral), AGU Fall meeting abstract SA32A-03, Washington, D.C., 10-14 Dec.
+1. Dang, T. et al. (2018), The global thermospheric and ionospheric responses to the 2017 Great American Solar Eclipse (Invited talk), AOGS 2018 meeting abstract ST17-A010, Honolulu, HI, 03-08 Jun.
+1. Dang, T. et al. (2017), Unusual behavior of tongue of ionization (TOI) simulated by the high-resolution Thermosphere Ionosphere Electrodynamics General Circulation Model (oral), AGU Fall meeting abstract SA34A-04, New Orleans, LA, 11-15 Dec
   
 Teaching
 ======
