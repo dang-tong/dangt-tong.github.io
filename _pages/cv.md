@@ -23,8 +23,7 @@ Department of Earth and Space Sciences, University of Science and Technology of 
 
 Publications
 ======
-```{r child='publications.md'}
-```
+(publications.md)
   
 Talks
 ======
