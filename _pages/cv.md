@@ -67,7 +67,7 @@ Publications
 1. Luan, X., Lei, J., Dou, X., and **Dang, T.** (2016). Double crests of peak height in the equatorial ionospheric F2 layer observed by COSMIC. Journal of Geophysical Research: Space Physics, 121, 529-537. https://doi.org/10.1002/2015JA021611
 1. **Dang, T.**, Lei, J., Dou, X., and Wan, W. (2015). Feasibility study on the derivation of the O+- O collision frequency from ionospheric field-aligned observations. Journal of Geophysical Research: Space Physics, 120, 6029-6035. https://doi.org/10.1002/2015JA020987
   
-Talks
+Selected Conference Presentations
 ======
 1. Dang, T. et al. (2022), Global Effects of a Polar Solar Eclipse on the Coupled Magnetosphere-Ionosphere System (invited talk), CEDAR 2022, 19-24, Jun.
 1. Dang, T. et al. (2021), Geospace response to 10 June 2021 polar solar eclipse (invited talk), AGU Fall Meeting 2021, 13-17 Dec.
@@ -83,6 +83,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Memberships and Services
 ======
-* Currently signed in to 43 different slack teams
+* American Geophysical Union (AGU) Member, Sep 2016-present
+* Reviewer for Peer-reviewed Journals
+Journal of Geophysical Research, Geophysical Research Letter, Space Weather, Journal of Atmospheric Solar-Terrestrial Physics, Journal of Space Weather and Space Climate
