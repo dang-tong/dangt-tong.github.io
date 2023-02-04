@@ -1,7 +1,7 @@
 ---
 title: "Geospace modeling: Earth's ionosphere, thermosphere and magnetosphere"
 collection: research
-permalink: /research/planetary-modeling/ 
+permalink: /research/research2geospace/ 
 institution: "USTC"
 excerpt: "Development of high resolution model of the Earth's ionosphere and thermosphere"
 ---
