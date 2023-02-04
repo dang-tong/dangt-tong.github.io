@@ -1,7 +1,6 @@
 ---
 title: "Planetary modeling: space environment at Venus and Mars"
 collection: research
-teaching_type: "Course"
 permalink: /research/planetary-modeling/ 
 institution: "USTC"
 excerpt: "Development of high resolution model of the unmagnetized planets (Venus and Mars)"
