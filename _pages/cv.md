@@ -23,7 +23,7 @@ Department of Earth and Space Sciences, University of Science and Technology of 
 
 Publications
 ======
-{{publications.md}}
+<<[publications.md]
   
 Talks
 ======
