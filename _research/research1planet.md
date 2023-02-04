@@ -4,6 +4,7 @@ collection: research
 permalink: /research/planetary-modeling/ 
 institution: "USTC"
 excerpt: "Development of high resolution model of the unmagnetized planets (Venus and Mars)"
+![Alt](/images/New_3D_KH_by_0001.png)
 ---
 
 ### Overview
