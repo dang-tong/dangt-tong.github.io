@@ -11,9 +11,9 @@ title                    : "Tong DANG"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Space Guy"
-url                      : https://dangt-ustc.github.io
+url                      : https://dang-tong.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dangt-ustc/dangt-ustc.github.io"
+repository               : "dang-tong/dang-tong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
