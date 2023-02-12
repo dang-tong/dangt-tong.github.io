@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tong DANG"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr. T DANG"
 description              : &description "Space Guy"
 url                      : https://dang-tong.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
