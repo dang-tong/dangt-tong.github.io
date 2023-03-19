@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Dang, T.**, Zhang, B., Yan, M., Lyon, J., Yao, Z., Xiao, S., Zhang, T., and Lei, J. (2023). A New Tool for Understanding the Solar Wind–Venus Interaction: Three-dimensional Multifluid MHD Model. The Astrophysical Journal, 945, 91. https://doi.org/10.3847/1538-4357/acba88
+1. Li, R., Lei, J., Kusche, J., **Dang, T.**, Huang, F., Luan, X., et al. (2023). Large-scale disturbances in the upper thermosphere induced by the 2022 Tonga volcanic eruption. Geophysical Research Letters, 50, e2022GL102265. https://doi.org/10.1029/2022GL102265
+1. Gu, S.-Y., Yang, Z., Qin, Y., Teng, C.-K., Dou, X., Lei, J., Huang, F., **Dang, T.**, and Sun, W., (2023). Ionospheric TEC variation and gravity waves signatures during the solar eclipse on 21 June 2020 over southern China. Journal of Geophysical Research: Space Physics, 128, e2022JA030758. https://doi.org/10.1029/2022JA030758
 1. Yan, M., **Dang, T.\***,  Cao, Y., Cui, J., Zhang, B., Liu, Z., Lei, J.\* (2022). A Comparative Study of Ionospheric Response to Solar Flares at Earth, Venus, and Mars. The Astrophysical Journal, 939, 10. https://doi.org/10.3847/1538-4357/ac92ff
 1. Tan, Y., **Dang, T.\***, Lei, J., Zhang, B., Wang, W., Yang, Z., et al. (2022). Interplanetary control of high-latitude thermospheric winds: Results from HIWIND and model simulations. Journal of Geophysical Research: Space Physics, 127, e2022JA030394. https://doi.org/10.1029/2022JA030394
 1. **Dang, T.**, Li, X., Luo, B., Li, R., Zhang, B., Pham, K., et al. (2022). Unveiling the space weather during the Starlink satellites destruction event on 4 February 2022. Space Weather, 20, e2022SW003152. https://doi.org/10.1029/2022SW003152
