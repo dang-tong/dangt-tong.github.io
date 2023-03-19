@@ -23,7 +23,6 @@ Department of Earth and Space Sciences, University of Science and Technology of 
 
 Funded Research
 ======
-
 1. Investigation of the coupling between ionosphere and middle-upper atmosphere and the related escape processes at Mars, PI, NSFC, 2023-2026
 1. Investigation of the solar eclipse effect on the coupled ionosphere-thermosphere-magnetosphere system, PI, NSFC, 2022-2025
 1. Investigation of the effect of polar tongue of ionization on the thermosphere during geomagnetic storms, PI, NSFC, 2020-2022
@@ -82,9 +81,9 @@ Selected Conference Presentations
   
 Teaching
 ======
-[]: #  (<ul>{% for post in site.teaching %})
-[]: #  (  {% include archive-single-cv.html %})
-[]: #  ({% endfor %}</ul>)
+[//]: # (<ul>{% for post in site.teaching %})
+[//]: # (  {% include archive-single-cv.html %})
+[//]: # ({% endfor %}</ul>)
 * Astrodynamics, undergraduate course, USTC, Spring 2023
   
 Professional Memberships and Services
