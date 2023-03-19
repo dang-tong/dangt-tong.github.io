@@ -82,10 +82,10 @@ Selected Conference Presentations
   
 Teaching
 ======
-[comment]: <>  <ul>{% for post in site.teaching %}
-[comment]: <>    {% include archive-single-cv.html %}
-[comment]: <>  {% endfor %}</ul>
-Astrodynamics, undergraduate course, USTC, Spring 2023
+[]: #  <ul>{% for post in site.teaching %}
+[]: #    {% include archive-single-cv.html %}
+[]: #  {% endfor %}</ul>
+* Astrodynamics, undergraduate course, USTC, Spring 2023
   
 Professional Memberships and Services
 ======
