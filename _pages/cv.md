@@ -16,7 +16,7 @@ Education
 
 Work Experience
 ======
-Department of Earth and Space Sciences, University of Science and Technology of China
+School of Earth and Space Sciences, University of Science and Technology of China
 * 2023-present: Associate Professor
 * 2021-2022: Associate Researcher
 * 2018-2020: Postdoctoral fellow
@@ -80,15 +80,15 @@ Selected Conference Presentations
 1. Dang, T. et al. (2019), Impacts of polar tongues of ionization and Patches on high-latitude upper thermosphere (oral), AGU Fall Meeting abstract, San Francisco, CA, 9-13 Dec.
 1. Dang, T. et al. (2018), Dynamic evolution of polar tongues of ionization and patches in the coupled Magnetosphere-Ionosphere-Thermosphere system (oral), AGU Fall meeting abstract SA32A-03, Washington, D.C., 10-14 Dec.
 1. Dang, T. et al. (2018), The global thermospheric and ionospheric responses to the 2017 Great American Solar Eclipse (Invited talk), AOGS 2018 meeting abstract ST17-A010, Honolulu, HI, 03-08 Jun.
-1. Dang, T. et al. (2017), Unusual behavior of tongue of ionization (TOI) simulated by the high-resolution Thermosphere Ionosphere Electrodynamics General Circulation Model (oral), AGU Fall meeting abstract SA34A-04, New Orleans, LA, 11-15 Dec
+1. Dang, T. et al. (2017), Unusual behavior of tongue of ionization (TOI) simulated by the high-resolution Thermosphere Ionosphere Electrodynamics General Circulation Model (oral), AGU Fall meeting abstract SA34A-04, New Orleans, LA, 11-15 Dec.
   
 Teaching
 ======
-* Astrodynamics, undergraduate course, USTC, 2023 Spring
-* Space Weather and Its Application on Aerospace, undergraduate course, USTC, 2023 Fall
+* Astrodynamics, undergraduate course, USTC, 2023 Spring.
+* Space Weather and Its Application on Aerospace, undergraduate course, USTC, 2023 Fall.
   
 Professional Memberships and Services
 ======
-* American Geophysical Union (AGU) Member, Sep 2016-present
+* American Geophysical Union (AGU) Member, Sep 2016-present.
 * Reviewer for Peer-reviewed Journals
 <br /> &emsp; Journal of Geophysical Research, Geophysical Research Letter, Space Weather, Journal of Atmospheric Solar-Terrestrial Physics, Journal of Space Weather and Space Climate
