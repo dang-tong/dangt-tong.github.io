@@ -1,5 +1,5 @@
 ---
-title: "Astrodynamics"
+title: "Orbital Dynamics of Spacecraft"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
