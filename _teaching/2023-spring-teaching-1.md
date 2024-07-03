@@ -10,5 +10,5 @@ location: "Hefei, China"
 
 [//]: # (This is a description of a teaching experience. You can use markdown like any other post.)
 
-Astrodynamics for undergraduates of USTC
+Orbital Dynamics of Spacecraft for undergraduates of USTC
 ======
