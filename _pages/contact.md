@@ -6,5 +6,5 @@ author_profile: true
 ---
 Contact information is below
 
-* E-mail: dangt [at] ustc.edu.cn
+* E-mail: dangt[at]ustc.edu.cn
 * Google Scholar: [Tong DANG](https://scholar.google.com/citations?user=K7JUackAAAAJ&hl=en)
