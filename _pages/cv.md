@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Geophysics, University of Science and Technology of China, 2013
 * Ph.D in Space Physics, University of Science and Technology of China, 2018
+* Joint PhD student, HAO, National Center for Atmospheric Research (NCAR), 2016-2017
 
 Work Experience
 ======
